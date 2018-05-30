@@ -2,7 +2,7 @@
   "name": "pueblos",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://emilianocervantes.github.io/proy1",
+  "homepage": "https://emilianocervantes.github.io/proy",
   "dependencies": {
     "axios": "^0.16.2",
     "gh-pages": "^1.1.0",
